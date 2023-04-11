@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5TTI_matrice_ajdiniSefedin", "5TTI_matrice_ajdiniSefedin\5TTI_matrice_ajdiniSefedin.csproj", "{1C2AC628-679F-4E96-97FD-C74751919694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2AC628-679F-4E96-97FD-C74751919694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2AC628-679F-4E96-97FD-C74751919694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2AC628-679F-4E96-97FD-C74751919694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2AC628-679F-4E96-97FD-C74751919694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DE4D099-2D05-4631-9A1E-7FA902F03CFD}
+	EndGlobalSection
+EndGlobal
